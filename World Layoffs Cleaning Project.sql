@@ -1,9 +1,10 @@
--- Data Cleaning layoff data
--- The columns for this table are company, location, industry, total_laid_off,
--- percentage_laid_off, date, stage, country, and funds_raised_millions
+-- Cleansing and exploring global layoff data
+
 -- With the below script I removed duplicated, standardized data,
 -- Filled nulls/blanks where applicable, and removed nulls when applicable
 
+-- Please see the link below for Tableau visualization of this project.
+-- https://public.tableau.com/app/profile/zack.moore1331/viz/GlobalLayoffs_17638737870860/CompanyLayoffs?publish=yes
 
 -- 1. Remove duplicates
 -- 2. Standardize data
